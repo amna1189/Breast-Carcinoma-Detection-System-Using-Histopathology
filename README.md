@@ -49,6 +49,9 @@ The project includes the complete machine learning pipeline, from dataset prepro
 - Performance comparison graphs
 
 ---
+## Dataset
+
+Agios Pavlos Breast Histopathology Dataset
 
 ## Technologies Used
 
